@@ -4,6 +4,7 @@ Hotels Tonight Demo test framework
 requires ruby-2.1.1
 
 To run tests:
+
 1. cd to root directory
 
 2. run bundle install
